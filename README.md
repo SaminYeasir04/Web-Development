@@ -1,4 +1,4 @@
-# [TravelYaari](https://shsarv.github.io/TravelYaari/)  <img src ="https://www.flaticon.com/svg/static/icons/svg/744/744502.svg" width="50px">
+# [TravelQuick](https://saminyeasir04.github.io/Web-Development/)  <img src ="https://www.flaticon.com/svg/static/icons/svg/744/744502.svg" width="50px">
 
 <center>
   
@@ -12,9 +12,8 @@
 </center>
 
 <br>
-This Project is Live at -----> https://shsarv.github.io/TravelYaari/
+This Project is Live at -----> https://saminyeasir04.github.io/Web-Development/
 
-#### [Mentor: Pankaj Kapoor](https://github.com/pankkap)
 
 <hr>
 
